@@ -13,13 +13,13 @@ In this notebook, we will discuss 3 main models : CNN, LSTM, Hybrid We proposes 
 
 # CNN (another notebook)
 # LSTM
-Architecture 1 : basic LSTM model
-Architecture 2 : bi-directional LSTM model
-Architecture 3 : Glove + LSTM
-Architecture 3.1 : Glove + additional dropout + LSTM
+- Architecture 1 : basic LSTM model
+- Architecture 2 : bi-directional LSTM model
+- Architecture 3 : Glove + LSTM
+- Architecture 3.1 : Glove + additional dropout + LSTM
 
 # Hybrid
-Architecture 1 : Glove + CNN + LSTM
-Architecture 2 : Glove + LSTM + CNN
+- Architecture 1 : Glove + CNN + LSTM
+- Architecture 2 : Glove + LSTM + CNN
 
 Project was tested on Google collab
