@@ -9,9 +9,8 @@ Dataset used : https://www.kaggle.com/kazanova/sentiment140
 - We are mainly concerned with text and target columns
 
 # Our Approach :
-In this notebook, we will discuss 3 main models : CNN, LSTM, Hybrid We proposes and evaluate different architectures using these models. We will be using tensorflow for this project.
+In this notebook, I will discuss 2 main models : LSTM, Hybrid (CNN + LSTM). I will propose and evaluate different architectures using these models and use tensorflow for this project.
 
-# CNN (another notebook)
 # LSTM
 - Architecture 1 : basic LSTM model
 - Architecture 2 : bi-directional LSTM model
